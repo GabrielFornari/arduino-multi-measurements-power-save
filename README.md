@@ -1,4 +1,4 @@
-# multi-measurements-power-save
+# arduino-multi-measurements-power-save
 
 Copy of arduino-multi-measurements. The main idea is to get the same measurements, but with a rate of 60 sec (1 min). 
 
